@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/portfolio/_next/static/chunks/8ba4941a368b35ea.js"],"ViewportBoundary"]
+3:I[97367,["/portfolio/_next/static/chunks/8ba4941a368b35ea.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"UvoavQdysVg_q3ScdlxSR","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Digital Portfolio — Vu Tien Dang | VNU1001"}],["$","meta","1",{"name":"description","content":"Digital Portfolio — Nhap mon cong nghe so va ung dung tri tue nhan tao (VNU1001) — Sinh vien Vu Tien Dang — MSSV 25020122 — UET-VNU"}],["$","meta","2",{"name":"author","content":"Vu Tien Dang"}],["$","meta","3",{"name":"keywords","content":"Digital Portfolio,VNU1001,AI,UET,VNU"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
